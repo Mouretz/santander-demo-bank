@@ -1,5 +1,4 @@
-# Tela Inicial Santander
-• Utilizando Java, RESTFull API e Spring Boot.
+Tela Inicial Santander utilizando Java, RESTFull API e Spring Boot.
 
 ## Diagrama de Classe
 ```mermaid
